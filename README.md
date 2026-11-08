@@ -1,4 +1,4 @@
-# Kumusta Mundo! 🇵🇭
+<h1 align="center">✨Kumusta Mundo!✨</h1>
 
 I make games and experiment with game design using **Defold** and **Lua**.
 
@@ -8,5 +8,5 @@ I make games and experiment with game design using **Defold** and **Lua**.
     <img src="https://defold.com/images/logo/defold/made_with_defold/logo-hor-classic-dark-160.png" alt="Made with Defold" width="140">
   </picture></a>
   &nbsp;&nbsp;
-  <a href="https://www.lua.org/"><img src="https://www.lua.org/images/lua-logo.gif" alt="Lua" width="48"></a>
+  <a href="https://www.lua.org/"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="48"></a>
 </p>
