@@ -4,6 +4,6 @@
 
 <p align="center">
 <a href="https://godotengine.org/"><img src="https://skillicons.dev/icons?i=godot" alt="Godot" width="48"></a>
-<a href="https://defold.com/"><img src="https://github.com/defold.png" alt="Defold" width="48" height="48"></a>
+<a href="https://defold.com/"><img src="https://raw.githubusercontent.com/turtleduckiee/turtleduckiee/main/assets/defold.svg" alt="Defold" width="48"></a>
 <a href="https://www.lua.org/"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="48"></a>
 </p>
